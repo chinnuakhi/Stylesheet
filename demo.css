@@ -1,0 +1,45 @@
+body
+{
+ background-image: url('521223362.jpg');
+ background-repeat: no-repeat;
+ background-size: 135%;
+}
+    h1
+    {
+      color: blue;
+      font-family: 'Permanent Marker', cursive;
+     font-size: 40px;
+     text-align:center;
+    }
+    p
+    {
+      color: darkslategrey;
+      font-size: 25px;
+      font-family: 'Amatic SC', cursive;
+    }
+    ol
+    {
+     color:darkslateblue;
+     font-size: 20px;
+     font-family: 'Courgette', cursive;
+     margin-left:25px;
+    }
+    ul
+    {
+      color:darkslateblue;
+      font-size: 22px;
+      font-family: 'Courgette', cursive;
+      margin-left:25px;
+    }
+    h2
+    {
+      font-family: 'Shadows Into Light', cursive;
+      font-size: 32px;
+     color: darkolivegreen;
+    }
+    h3
+    {
+      color: darkorchid;
+      font-size: 25px;
+      font-family: 'Amatic SC', cursive;
+    }
